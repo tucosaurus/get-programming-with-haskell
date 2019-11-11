@@ -1,2 +1,2 @@
 main = do
-    print "Hello Akash"
+    print "Hey Akash"
